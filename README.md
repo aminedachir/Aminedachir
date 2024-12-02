@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi I'm Amine </h1>  <p align="center"> <img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/amine-dachir-75568a211/"> <a href="https://www.instagram.com/amine_dachir/"><img src="https://img.shields.io/badge/instagram-%23E4415F7style=flat&logo=instagram&logoColor=white"/></a> </p> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminedachir&show_icons=true&theme=dark)
 <!--
