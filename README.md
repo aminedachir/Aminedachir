@@ -3,6 +3,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminedachir)](https://github.com/Aminedachir/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir)](https://github.com/Aminedachir/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir&exclude_repo=github-readme-stats,Aminedachir.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminedachir&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminedachir&show_icons=true&theme=dark)
 <!--
 **aminedachir/Aminedachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
