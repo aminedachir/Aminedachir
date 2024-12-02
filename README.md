@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Amine </h1>  <p align="center"> <img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/amine-dachir-75568a211/"> <a href="https://www.instagram.com/amine_dachir/"><img src="https://img.shields.io/badge/instagram-%23E4415F7style=flat&logo=instagram&logoColor=white"/></a> </p> <img src="https://github.com/https://github.com/aminedachir/https://github.com/aminedachir/blob/master/profile-img.png" alige="right" width="25%"/>
+<h1 align="center">Hi I'm Amine </h1>  <p align="center"> <img src="https://img.shields.io/badge/linkedin-%23017785?style=flat&logo=linkedin&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/amine-dachir-75568a211/"> <a href="https://www.instagram.com/amine_dachir/"><img src="https://img.shields.io/badge/instagram-%23E4415F7style=flat&logo=instagram&logoColor=white"/></a> </p> 
 <!--
 **aminedachir/Aminedachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
